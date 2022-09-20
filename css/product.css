@@ -17,6 +17,7 @@
     place-items: center;
 }
 .headfone{
+    width: auto;
     height: 60%;
 }
 
